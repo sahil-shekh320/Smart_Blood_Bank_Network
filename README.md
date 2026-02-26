@@ -370,4 +370,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-**Made with ❤️ to save lives**
+**Made with ❤️ to save lives**"# Smart-Blood-Bank-Network" 
